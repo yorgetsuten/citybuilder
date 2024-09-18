@@ -1,0 +1,86 @@
+{
+  "frames": {
+    "leftright": {
+      "frame": { "x": 0, "y": 0, "w": 160, "h": 80 },
+      "sourceSize": { "w": 80, "h": 80 },
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 80 }
+    },
+    "bottomtop": {
+      "frame": { "x": 160, "y": 0, "w": 160, "h": 80 },
+      "sourceSize": { "w": 80, "h": 80 },
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 80 }
+    },
+    "leftbottomrighttop": {
+      "frame": { "x": 320, "y": 0, "w": 160, "h": 80 },
+      "sourceSize": { "w": 80, "h": 80 },
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 80 }
+    },
+    "bottomright": {
+      "frame": { "x": 480, "y": 0, "w": 160, "h": 80 },
+      "sourceSize": { "w": 80, "h": 80 },
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 80 }
+    },
+    "leftbottomright": {
+      "frame": { "x": 640, "y": 0, "w": 160, "h": 80 },
+      "sourceSize": { "w": 80, "h": 80 },
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 80 }
+    },
+    "bottom": {
+      "frame": { "x": 800, "y": 0, "w": 160, "h": 80 },
+      "sourceSize": { "w": 80, "h": 80 },
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 80 }
+    },
+
+    "left": {
+      "frame": { "x": 0, "y": 80, "w": 160, "h": 80 },
+      "sourceSize": { "w": 80, "h": 80 },
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 80 }
+    },
+    "top": {
+      "frame": { "x": 160, "y": 80, "w": 160, "h": 80 },
+      "sourceSize": { "w": 80, "h": 80 },
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 80 }
+    },
+    "righttop": {
+      "frame": { "x": 320, "y": 80, "w": 160, "h": 80 },
+      "sourceSize": { "w": 80, "h": 80 },
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 80 }
+    },
+    "leftbottom": {
+      "frame": { "x": 480, "y": 80, "w": 160, "h": 80 },
+      "sourceSize": { "w": 80, "h": 80 },
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 80 }
+    },
+    "leftrighttop": {
+      "frame": { "x": 640, "y": 80, "w": 160, "h": 80 },
+      "sourceSize": { "w": 80, "h": 80 },
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 80 }
+    },
+    "right": {
+      "frame": { "x": 800, "y": 80, "w": 160, "h": 80 },
+      "sourceSize": { "w": 80, "h": 80 },
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 80 }
+    },
+
+    "lefttop": {
+      "frame": { "x": 480, "y": 160, "w": 160, "h": 80 },
+      "sourceSize": { "w": 80, "h": 80 },
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 80 }
+    },
+    "bottomrighttop": {
+      "frame": { "x": 640, "y": 160, "w": 160, "h": 80 },
+      "sourceSize": { "w": 80, "h": 80 },
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 80 }
+    },
+    "leftbottomtop": {
+      "frame": { "x": 800, "y": 160, "w": 160, "h": 80 },
+      "sourceSize": { "w": 80, "h": 80 },
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 80 }
+    }
+  },
+  "meta": {
+    "size": { "w": 960, "h": 240 },
+    "image": "road1.png",
+    "scale": 1
+  }
+}
