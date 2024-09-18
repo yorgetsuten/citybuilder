@@ -1,4 +1,4 @@
-import type { Application, Renderer, Sprite } from 'pixi.js'
+import type { Application, Renderer } from 'pixi.js'
 
 import { clamp, throttle } from '../lib'
 import { Container, Graphics, Rectangle } from 'pixi.js'
