@@ -48,8 +48,6 @@ const app = new Application()
   const ManTextures = await ManSheet.parse()
   const RoadTextures = await RoadSheet.parse()
 
-  // @ts-ignore
-  globalThis.__PIXI_APP__ = app
   document.body.appendChild(app.canvas)
 
   async function start() {
